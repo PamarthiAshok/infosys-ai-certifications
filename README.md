@@ -9,7 +9,7 @@ Welcome to my certification showcase, featuring six AI-focused credentials earne
 ### 1️⃣ Artificial Intelligence Primer
 - 🗓️ **Completed**: July 31, 2024
 - 📍 **Issued by**: Infosys Springboard
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/1l1GoSCiWWzvKkKIx-3g9OG1PI00seSnw/view?usp=sharing)
 
 Covers foundational AI principles, ethical AI use, and applications across industries.
 

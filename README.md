@@ -18,7 +18,7 @@ Covers foundational AI principles, ethical AI use, and applications across indus
 ### 2️⃣ Computer Vision 101
 - 🗓️ **Completed**: July 30, 2024  
 - 📍 **Issued by**: Infosys Springboard  
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/10imF3JLXhf1BAKHoqYhjoZ53Fo5Ebym4/view?usp=sharing)
 
 Introduces key computer vision topics like image recognition, object detection, and practical use cases.
 
@@ -27,7 +27,7 @@ Introduces key computer vision topics like image recognition, object detection, 
 ### 3️⃣ Introduction to Data Science
 - 🗓️ **Completed**: July 30, 2024  
 - 📍 **Issued by**: Infosys Springboard  
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/1b51BdxE3BIc19ccayHFDfVCcJjG4BUWF/view?usp=sharing)
 
 Covers basic data manipulation, exploration, visualization, and analytical decision-making.
 
@@ -36,7 +36,7 @@ Covers basic data manipulation, exploration, visualization, and analytical decis
 ### 4️⃣ Introduction to Deep Learning
 - 🗓️ **Completed**: November 29, 2023  
 - 📍 **Issued by**: Infosys Springboard  
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/1mMbInn5kSpKfVYu3cZu_sH4OdAPPfEPW/view?usp=sharing)
 
 Explores neural networks, backpropagation, deep learning architectures, and modern AI systems.
 
@@ -45,7 +45,7 @@ Explores neural networks, backpropagation, deep learning architectures, and mode
 ### 5️⃣ Introduction to Natural Language Processing
 - 🗓️ **Completed**: November 29, 2023  
 - 📍 **Issued by**: Infosys Springboard  
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/1onbJ0tHE66asBLBJ7BPScYZ3n5iiFuXu/view?usp=sharing)
 
 Covers NLP techniques like tokenization, sentiment analysis, and named entity recognition.
 
@@ -54,7 +54,7 @@ Covers NLP techniques like tokenization, sentiment analysis, and named entity re
 ### 6️⃣ Robotic Process Automation
 - 🗓️ **Completed**: July 30, 2024  
 - 📍 **Issued by**: Infosys Springboard  
-- 🔗 [Verify Credential](https://verify.onwingspan.com)
+- 🔗 [Verify Credential](https://drive.google.com/file/d/1bK2qZ-jwkPwKgkvbfbIy6CgEa7OXs3fF/view?usp=sharing)
 
 Explains the fundamentals of RPA, bot creation, and enterprise use cases for automation.
 
@@ -68,7 +68,7 @@ I'm Pamarthi Venkata Ashok Kumar, an aspiring Python full stack developer focuse
 
 ## 📎 Find Me Online
 
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/venkata-ashok-kumar-pamarthi-37109b31a/)  
 - 🧑‍💻 [GitHub Profile](https://github.com/PamarthiAshok)
 
 ---
